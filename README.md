@@ -21,8 +21,8 @@ A macOS app for recording audio and transcribing it using OpenAI's Whisper API, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ishanshauryajaiswal/play-macos.git
-   cd play-macos
+   git clone https://github.com/ishanshauryajaiswal/play-macos-clean.git
+   cd play-macos-clean
    ```
 
 2. **Open in Xcode:**
